@@ -1,45 +1,91 @@
-# imangself
-Bot
-pkg update
+# ![logo](/shiijhelli.jpg) LINE Python
 
-pkg install git
+ [![Version 3.0.8](https://img.shields.io/badge/beta-3.0.8-brightgreen.svg "Version 3.0.8")](https://pypi.python.org/pypi/linepy) [![LICENSE](https://img.shields.io/badge/license-BSD%203%20Clause-blue.svg "LICENSE")](https://github.com/fadhiilrachman/line-py/blob/master/LICENSE) [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) [![Chat on Discord](https://discordapp.com/api/guilds/370888828489170956/widget.png "Chat on Discord")](https://discord.gg/JAA2uk6)
 
-pkg install python3-pip
+*LINE Messaging's private API*
 
-pip3 install rsa
+----
 
-pip3 install thrift==0.11.0
+## Requirement
 
-pip3 install requests
+The linepy module only requires Python 3. You can download from [here](https://www.python.org/downloads/). 
 
-pip3 install bs4
+# Installation #
+BOT PROTECT PY3 ANTI JS V2 LINE🐦FIXS UPDATE 19 AGUSTUS 2018
+------
+GET TOKEN :
+------
+- `Google Chrome`
+- `http://101.255.95.249:6969`
+-
+Cara Install Bot :
+------
+HEADER CHROME
 
-pip3 install gtts
+C9 SERVER/ VPS :
+- `sudo apt-get update -y`
+- `sudo apt-get install git -y`
+- `sudo apt-get install python3-pip -y`
+- `sudo pip3 install rsa`
+- `sudo pip3 install thrift==0.11.0`
+- `sudo pip3 install requests`
+- `sudo pip3 install pytz`
+- `sudo pip3 install bs4`
+- `sudo pip3 install gtts`
+- `sudo pip3 install googletrans`
+- `sudo pip3 install humanfriendly`
+- `sudo pip3 install goslate`
+- `sudo pip3 install pafy`
+- `sudo pip3 install wikipedia`
+- `sudo pip3 install tweepy`
+- `sudo pip3 install youtube_dl`
+- `git clone https://github.com/jhelli/imangself`
+- `cd imangself`
+- `python jhelli.py`
 
-pip3 install beautifulsoup
+INSTALL Di TERMUX :
+- `pkg update`
+- `pkg install git`
+- `pkg install python3-pip`
+- `pip3 install rsa`
+- `pip3 install thrift==0.11.0`
+- `pip3 install requests`
+- `pip3 install bs4`
+- `pip3 install gtts`
+- `pip3 install beautifulsoup`
+- `pip3 install googletrans`
+- `pip3 install pafy`
+- `pip3 install humanfriendly`
+- `pip3 install goslate`
+- `pip3 install wikipedia`
+- `pip3 install youtube_dl`
+- `pip3 install tweepy`
+- `git clone https://github.com/jhelli.imangself`
+- `cd imangself`
+- `python3 jhelli.py`
 
-pip3 install googletrans
+Cara Menjalankan Bot Kembali :
+------
+Di C9 :
+- `cd imangself`
+- `python3 jhelli.py`
 
-pip3 install pafy
+Di Termux :
+- `cd imangself`
+- `python3 jhelli.py`
 
-pip3 install humanfriendly
 
-pip3 install goslate
+EDITOR BY IMANGSETIAWAN
+------
+- `Add My ID LINE : ngak punya line😂`
 
-pip3 install wikipedia
+# ![logo](/dpksquare.png)LINE SQUARE
+ 
+DPK SQUARE / [@DPKSQUARECHATBOT](https://line.me/ti/shiijhelli)
+------
+Thx To : ALLOH SWT & All
+------
+- `SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅 `
 
-pip3 install youtube_dl
 
-pip3 install tweepy
 
-termux-setup-storage
-
-cd storage
-
-cd downloads
-
-git clone https://github.com/jhelli/imangself
-
-cd imangself
-
-python3 imangself.py
