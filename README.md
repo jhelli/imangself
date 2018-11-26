@@ -11,7 +11,7 @@
 The linepy module only requires Python 3. You can download from [here](https://www.python.org/downloads/). 
 
 # Installation #
-BOT PROTECT PY3 ANTI JS V2 LINE🐦FIXS UPDATE 19 AGUSTUS 2018
+SELFBOT ANTI JS/BY CREAROR ARIFISTIFIK
 ------
 GET TOKEN :
 ------
